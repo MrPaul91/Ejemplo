@@ -30,7 +30,7 @@
         <rdfs:range rdf:resource="http://all-robotics.com#Empresa"/>
     </owl:ObjectProperty>
     
-
+xd
 
     <!-- http://all-robotics.com#Creador_De -->
 
